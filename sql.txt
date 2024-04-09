@@ -1,3 +1,4 @@
+Useful resources: 
 https://www.sql-ex.ru/ - sql exercises
 https://www.w3schools.com/sql/ - good tutorial
 https://www.tutorialspoint.com/sql/index.htm
